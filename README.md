@@ -1,5 +1,17 @@
 # HUMAIN
 
+In this portfolio, I showcase a series of projects built using GPT-4 not as a tool, but as a creative collaborator. My goal is to push the boundaries of what AI can generate — from full web interfaces to intelligent systems that understand and process real-world documents.
+
+While leveraging GPT-4's speed and flexibility, I emphasize quality and accountability by:
+
+- Carefully reviewing and modifying the generated code to ensure clean structure, performance, and accessibility.
+
+- Designing context-rich prompts that guide the model clearly and consistently.
+
+- In complex cases, I ask GPT-4 itself to help formulate the optimal prompt — by first describing the project idea and constraints, and then refining its own instructions iteratively.
+
+This process enables rapid prototyping without compromising code quality, while exploring new human-AI workflows in development.
+
 # Project 1
 HR Assistant – Saudi Labor Law AI Companion
 Overview:
@@ -42,3 +54,12 @@ Overview:
 What Makes It Unique:
 Unlike typical chatbots, this tool intelligently extracts document content and reasons about it in Arabic using GPT-4. The entire system — UI + backend + prompt chain — was built with GPT-4 guidance.
 
+https://github.com/njoudae/ask-me
+
+# Project 5
+
+Smart License Verifier – GPT-4 Document Intelligence System
+Overview:
+A dual-system web solution for analyzing Saudi driver’s licenses. The first system allows a user to upload or capture a license photo, while the second system (Admin Panel) receives structured data, validates fields, and enables edits if needed.
+
+The entire system — including OCR, parsing, validation, and classification — is powered by GPT-4.
